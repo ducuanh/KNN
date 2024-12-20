@@ -24,11 +24,11 @@ The k-NN algorithm is a simple, non-parametric method used for classification an
 ---
 
 ## Implementation Details
-Classes:
+**Classes:**
 
 Atrributes: Represents a single data observation, with feature values and a class label.
 TrainTestResults: Stores the distance between a test observation and a training observation, along with the corresponding class label.
-Methods:
+**Methods:**
 
 getData: Reads and parses CSV files into lists of Atrributes.
 KNN: Implements the k-NN algorithm, performs classification, and calculates accuracy.
